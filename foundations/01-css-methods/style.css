@@ -1,0 +1,8 @@
+/* "div" can also be used as selector to target all divs */
+
+.external {  
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+}
